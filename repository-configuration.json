@@ -5,7 +5,7 @@
     },
     "repositories": [
         {
-            "dataDir": "",
+            "dataDir": "$WORKSPACE/data",
             "repository": {
                 "uid": "f09fc149dc4621e38fa60cdda42c6fdc",
                 "projectName": "css1",
@@ -13,7 +13,7 @@
                     "CSS"
                 ],
                 "sources": {
-                    "baseDir": "",
+                    "baseDir": "$WORKSPACE",
                     "exclusions": []
                 }
             },
